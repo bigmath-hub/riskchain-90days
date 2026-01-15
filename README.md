@@ -4,4 +4,4 @@
 ## Step 0: Project choices
 - Chain: Ethereum
 - Data source: JSON-RPC (public RPC first, upgrade later)
-- First use-case: Whale Whatcher (detect large native transfers per block range)
+- First use-case: Whale Watcher (detect large native transfers per block range)
